@@ -7,6 +7,11 @@ module.exports = {
     async execute(message, args) {
         const { member, channel, voiceChannel } = get_vars(message);
         const queue = await client.distube.getQueue(voiceChannel);
+        if (!queue) return message.channel.send('There is nothing in the queue right now!');
+        if (queue.songs.length == 1) { // this fixes error where the queue didn't have anything up next to skip to
+            await queue.stop();
+            return;
+        }
 
         if (!voiceChannel) {
             return message.reply('must be in a voice channel to use music commands');
