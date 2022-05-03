@@ -2,13 +2,16 @@ const { MessageEmbed } = require('discord.js');
 const { get_vars } = require('./music_args_handling');
 const client = require('../../main');
 
+function add_filters(vc) {
+    const queue = client.distube.getQueue(vc);
+    const test = 1;
+}
+
 module.exports = {
     name: 'play',
     aliases: ['p'],
     async execute(message, args) {
-
         const { member, channel, voiceChannel } = get_vars(message);
-
         if (!voiceChannel) {
             return message.reply('must be in a voice channel to use music commands');
         }
@@ -16,7 +19,10 @@ module.exports = {
             return message.reply('play requires argument of youtube/soundcloud link or query')
         }
         const search = args.join(' ');
+        // const song = client.distube.search(search);
         client.distube.play(voiceChannel, search, { textChannel: channel, member: member });
-        return message.reply({ content: 'Request received' });
+        add_filters(voiceChannel);
+        //return message.reply({ content: 'Request received' });
+        return;
     },
 };
