@@ -23,7 +23,7 @@ module.exports = {
         }
         const search = args.join(' ');
         // const song = client.distube.search(search);
-        client.distube.play(voiceChannel, search, { textChannel: channel, member: member });
+        await client.distube.play(voiceChannel, search, { textChannel: channel, member: member });
         add_filters(voiceChannel);
         //return message.reply({ content: 'Request received' });
         return;

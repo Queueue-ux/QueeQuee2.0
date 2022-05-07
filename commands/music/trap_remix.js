@@ -19,7 +19,7 @@ module.exports = {
             return message.reply('play requires argument of youtube/soundcloud link or query')
         }
         const search = args.join(' ');
-        client.distube.play(voiceChannel, search, { textChannel: channel, member: member });
+        await client.distube.play(voiceChannel, search, { textChannel: channel, member: member });
         return message.reply({ content: 'Request received' });
     },
 };
