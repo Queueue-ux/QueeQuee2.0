@@ -1,6 +1,4 @@
 const fs = require('node:fs');
-// const glob = require('glob');
-// const path = require('node:path');
 const { Client, Collection, Intents } = require('discord.js');
 const { token } = require('./config.json');
 const { DisTube } = require('distube');
