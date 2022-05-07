@@ -4,6 +4,9 @@ const client = require('../../main');
 
 module.exports = {
     name: 'loop',
+    description: 'toggles looping of current song',
+    usage: 'loop',
+    category: 'music',
     async execute(message, args) {
         const { member, channel, voiceChannel } = get_vars(message);
 

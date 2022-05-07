@@ -4,6 +4,9 @@ const client = require('../../main');
 
 module.exports = {
     name: 'queue',
+    description: 'lists songs currently in the queue',
+    category: 'music',
+    usage: 'queue',
     aliases: ['q'],
     async execute(message, args) {
         const { member, channel, voiceChannel } = get_vars(message);

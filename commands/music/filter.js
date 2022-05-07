@@ -4,6 +4,9 @@ const client = require('../../main');
 
 module.exports = {
   name: 'filter',
+  category: 'music',
+  description: 'adds a filter to the music player',
+  usage: 'filter {name of filter to add (find using filterList)}',
   aliases: ['f'],
   async execute(message, args) {
     const queue = client.distube.getQueue(message);

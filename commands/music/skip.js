@@ -4,6 +4,9 @@ const client = require('../../main');
 
 module.exports = {
     name: 'skip',
+    description: 'skips currently playing song',
+    usage: 'skip',
+    category: 'music',
     async execute(message, args) {
         const { member, channel, voiceChannel } = get_vars(message);
         const queue = await client.distube.getQueue(voiceChannel);

@@ -5,6 +5,7 @@ const client = require('../../main');
 
 module.exports = {
     name: 'love',
+    category: 'music',
     async execute(message, args) {
 
         const { member, channel, voiceChannel } = get_vars(message);

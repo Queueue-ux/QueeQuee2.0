@@ -4,6 +4,9 @@ const client = require('../../main');
 
 module.exports = {
     name: 'pause',
+    description: 'pause the music in the channel, use resume to unpause',
+    category: 'music',
+    usage: 'pause',
     async execute(message, args) {
         const { member, channel, voiceChannel } = get_vars(message);
         const queue = await client.distube.getQueue(voiceChannel);

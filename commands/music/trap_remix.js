@@ -4,6 +4,9 @@ const client = require('../../main');
 
 module.exports = {
     name: 'trapremix',
+    category: 'music',
+    description: 'same as play but appends trap remix to search does not work with links',
+    usage: 'trapremix {query}',
     aliases: ['tr'],
     async execute(message, args) {
         args.push('trap remix');

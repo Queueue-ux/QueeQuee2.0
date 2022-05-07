@@ -9,6 +9,9 @@ function add_filters(vc) {
 
 module.exports = {
     name: 'play',
+    description: 'plays song in the voice channel, takes queries or links to youtube/soundcloud',
+    category: 'music',
+    usage: 'play {link/query}',
     aliases: ['p'],
     async execute(message, args) {
         const { member, channel, voiceChannel } = get_vars(message);

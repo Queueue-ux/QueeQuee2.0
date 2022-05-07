@@ -4,6 +4,9 @@ const client = require('../../main');
 
 module.exports = {
     name: 'stop',
+    description: 'erases the queue and stops the music player',
+    usage: 'stop',
+    category: 'music',
     async execute(message, args) {
         const { member, channel, voiceChannel } = get_vars(message);
         const queue = await client.distube.getQueue(voiceChannel);
