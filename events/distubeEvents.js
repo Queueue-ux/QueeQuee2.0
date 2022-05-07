@@ -1,3 +1,4 @@
+const queue = require('../commands/music/queue');
 const client = require('../main');
 
 client.distube
@@ -6,10 +7,12 @@ client.distube
             client.distube.play(queue.voiceChannel, song, { textChannel: queue.textChannel, unshift: true });
         }
     })
-    .on('playSong', (queue, song) =>
+    .on('playSong', (queue, song) =>{
     queue.textChannel.send(
-      `Playing \`${song.name}\` - \`${song.formattedDuration}\``
-    )
+      `Playing \`${song.name}\` - \`${song.formattedDuration}\`\n`
+    );
+    queue.textChannel.send(song.thumbnail);
+    },
   )
   .on('addSong', (queue, song) =>
     queue.textChannel.send(
