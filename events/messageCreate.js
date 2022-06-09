@@ -1,5 +1,6 @@
 const { prefix } = require('../config.json');
 const { MessageEmbed } = require('discord.js');
+const { emit_error } = require('../globals/error_output');
 module.exports = {
 name: 'messageCreate',
 async execute(message) {
@@ -23,12 +24,13 @@ async execute(message) {
 
   // Run the command
   try {
-    cmd.execute(message, args);
+    await cmd.execute(message, args);
   }
-  catch (e) {
+  catch (err) {
             const errorEmbed = new MessageEmbed()
             .setColor('RED')
-            .setDescription(`${e}`);
+            .setDescription(`${err}`);
+            emit_error(err);
             return message.reply({ embeds: [errorEmbed] });
         }
 },
