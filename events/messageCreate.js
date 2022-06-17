@@ -1,6 +1,9 @@
 const { prefix } = require('../config.json');
 const { MessageEmbed } = require('discord.js');
 const { emit_error } = require('../globals/error_output');
+const { get_user_name } = require('../globals/parse_discord_objects');
+const { update_total_messages } = require('../globals/stat_updates');
+const client_obj = require('../main');
 module.exports = {
 name: 'messageCreate',
 async execute(message) {
@@ -8,6 +11,13 @@ async execute(message) {
   // Ignore all bots
   const client = message.client;
   if (message.author.bot) return;
+
+  //////////////////////////////////
+  // Stat updates are all done here
+  /////////////////////////////////
+  const name = get_user_name(message.member);
+  update_total_messages(client_obj, client_obj.user_objects[name]);
+  //////////////////////////
 
   // Ignore messages not starting with the prefix (in config.json)
   if (message.content.indexOf(prefix) !== 0) return;
