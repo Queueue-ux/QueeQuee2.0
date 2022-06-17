@@ -7,7 +7,9 @@
     "@distube/yt-dlp": "^1.0.2",
     "discord.js": "^13.6.0",
     "distube": "^3.3.4",
-    "libsodium-wrappers": "^0.7.10"
+    "libsodium-wrappers": "^0.7.10",
+    "sequelize": "^6.20.1",
+    "sqlite3": "^5.0.8"
   },
   "devDependencies": {
     "eslint": "^8.9.0"
