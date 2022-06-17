@@ -1,6 +1,4 @@
-const queue = require('../commands/music/queue');
 const client = require('../main');
-
 client.distube
     .on('finishSong', (queue, song) => { // LOOPING EVENT
         if (client.isLooping) {
