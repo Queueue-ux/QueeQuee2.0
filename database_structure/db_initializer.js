@@ -9,6 +9,7 @@ const fs = require('fs');
 const { emit_error } = require('../globals/error_output');
 const { create_table, add_entry } = require('../globals/database_commands');
 const { guildId } = require('../config.json');
+const { get_non_bot_users } = require('../globals/guild_info');
 
 function connect() {
     return new Sequelize('database', 'user', 'password', {
@@ -22,15 +23,10 @@ function connect() {
 // NOTE: tables that have users must have a user column
 async function fill_table_with_users(client, table) {
     // first get list of all users
-    const guild = await client.guilds.fetch(guildId);
-    //const guild = await client.fetchGuildPreview(guildId);
-    const members = await guild.members.fetch({ force: true });
-    for (const [id, member] of members) {
-        if (!member.user['bot']) {
-            add_entry(table, { user: member.user['username'] + '#' + member.user['discriminator'] });
-        }
+    const members = await get_non_bot_users(client);
+    for (const member of members) {
+        add_entry(table, { user: member });
     }
-    const t= 1;
 }
 
 module.exports = {
@@ -74,8 +70,9 @@ module.exports = {
 
         // later this will be built by the TODO steps
         const final_table = structure_tables;
-        const type_dict = { 'INTEGER' : {   type: Sequelize.INTEGER,
-                                            defaultValue: 0 },
+        const type_dict = { 'INTEGER' : {   type: Sequelize.FLOAT,
+                                            defaultValue: 0,
+                                            allowNull: false},
                             'STRING' : {    type: Sequelize.STRING,
                                             defaultValue: ""},
                             'FLOAT' : {     type: Sequelize.FLOAT,
@@ -98,7 +95,7 @@ module.exports = {
             delete attributes['fill_with_users'];
             for (const column in attributes) {
                 column_list.push(column);
-                type_list.push(type_dict[attributes[column]]);
+                type_list.push(Object.assign({}, type_dict[attributes[column]]));
             }
             const new_table = await create_table(table, column_list, type_list, client);
             await new_table.sync();
@@ -107,8 +104,8 @@ module.exports = {
             }
             client.tables[table] = new_table;
         }
+        const t =1;
     },
-
     // use this if the table you added is supposed to be filled with all users in the channel
 
 };
