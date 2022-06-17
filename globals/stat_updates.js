@@ -2,7 +2,7 @@
 // explicitly uses the user_stats table
 const { increment, get_one } = require('./database_commands');
 const { get_non_bot_users } = require('./guild_info');
-const { elapsed_time_in_seconds } = require('./time_calculations');
+const { elapsed_time_in_seconds, get_current_time } = require('./time_calculations');
 // user_stats database
 // const client = require('../main');
 
@@ -41,7 +41,11 @@ module.exports = {
         const object_list = {};
         const list_of_users = await get_non_bot_users(client);
         for (const user in list_of_users) {
-            object_list[list_of_users[user]] = new_user_object(list_of_users[user]);
+            const obj_to_add = new_user_object(list_of_users[user]);
+            const time = get_current_time();
+            obj_to_add.join_time = time;
+            obj_to_add.leave_time = time;
+            object_list[list_of_users[user]] = obj_to_add;
         }
         return object_list;
     },
