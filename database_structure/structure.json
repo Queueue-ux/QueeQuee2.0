@@ -2,7 +2,7 @@
     "user_stats": {
         "fill_with_users" : true,
         "user" : "UNIQUESTRING",
-        "time_spent_in_channel" : "INTEGER",
+        "seconds_spent_in_channel" : "INTEGER",
         "messages_sent" : "INTEGER",
         "quee_coin" : "FLOAT"
     }
