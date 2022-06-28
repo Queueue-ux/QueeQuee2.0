@@ -20,7 +20,9 @@ async execute(message) {
   //////////////////////////
 
   // Ignore messages not starting with the prefix (in config.json)
-  if (message.content.indexOf(prefix) !== 0) return;
+  if (message.content.indexOf(prefix) !== 0) {
+    return message.reply(`wrong prefix: use ${prefix}`);
+  }
 
   // Our standard argument/command name definition.
   const args = message.content.slice(prefix.length).trim().split(/ +/g);
