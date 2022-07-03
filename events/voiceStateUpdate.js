@@ -19,7 +19,9 @@ async execute(before, after) {
         user_obj.leave_time = get_current_time();
         update_total_time(client, user_obj);
         for (const channel of before.channel.guild.channels.cache.values()) {
-        await channel.send(`See ya ${before.member.displayName}!`);
+            if (channel.name == spam_channel) {
+                await channel.send(`See ya ${before.member.displayName}!`);
+            }
         }
     }
 },
