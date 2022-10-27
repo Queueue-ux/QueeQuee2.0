@@ -23,6 +23,7 @@ client.isLooping = false;
 client.distube = new DisTube(client, {
 	youtubeDL : false,
 	plugins: [new SpotifyPlugin(), new YtDlpPlugin()],
+	nsfw: true,
 });
 
 // recursive search for command files
