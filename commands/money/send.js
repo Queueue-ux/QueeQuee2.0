@@ -27,6 +27,10 @@ module.exports = {
         return;
     }
     const amount = parseFloat(given_amount);
+    if (amount <= 0) {
+        message.channel.send('idiot');
+        return;
+    }
 
     const table = client.tables['user_stats'];
 
