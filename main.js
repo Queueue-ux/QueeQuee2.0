@@ -6,6 +6,9 @@ const { SpotifyPlugin } = require('@distube/spotify');
 const { YtDlpPlugin } = require('@distube/yt-dlp');
 const { db_initialize } = require('./database_structure/db_initializer');
 const { get_all_user_objects } = require('./globals/stat_updates');
+const { get_one } = require('./globals/database_commands');
+const { start_web_server } = require('./web_server');
+const { start } = require('node:repl');
 
 const client = new Client({
 	intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.GUILD_VOICE_STATES, Intents.FLAGS.GUILD_MEMBERS],
@@ -98,3 +101,51 @@ async function init() {
 
 // Login to Discord with your client's token
 init();
+// //////////////////////
+// WEB SERVER SECTION
+// //////////////////////
+
+// //////////////////////
+// functions for server responses
+// //////////////////////
+async function get_balance(name, res) {
+    const table = client.tables['user_stats'];
+    const sender_data = await get_one(table, { user:  name });
+    res.send(`${sender_data.dataValues['quee_coin']}`);
+}
+
+// //////////////////////
+// initialize server
+// //////////////////////
+const express = require('express');
+
+// Instantiate an Express application
+const app = express();
+const cors = require('cors');
+app.use(cors({ origin: 'https://queequeewebsite.github.io' }));
+
+// Create a NodeJS HTTPS listener on port 4000 that points to the Express app
+// Use a callback function to tell when the server is created.
+/* https
+.createServer({
+	key: fs.readFileSync('key.pem'),
+	cert: fs.readFileSync('cert.pem'),
+	}, app)
+.listen(80, ()=>{
+	console.log('server is runing at port 4000');
+});*/
+
+// Create an try point route for the Express app listening on port 4000.
+// This code tells the service to listed to any request coming to the / route.
+// Once the request is received, it will display a message 'Hello from express server.'
+app.get('/', (req, res)=>{
+	const query = req.query;
+	const name = query.name + '#' + query.num;
+	const request = query.request;
+	if (request == 'balance') {
+		const balance = get_balance(name, res);
+	}
+	//res.send('Hello from express server.');
+});
+app.listen(80);
+console.log('API Online');
