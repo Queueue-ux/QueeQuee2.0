@@ -7,7 +7,6 @@ const { YtDlpPlugin } = require('@distube/yt-dlp');
 const { db_initialize } = require('./database_structure/db_initializer');
 const { get_all_user_objects } = require('./globals/stat_updates');
 const { get_one } = require('./globals/database_commands');
-const { start_web_server } = require('./web_server');
 const { start } = require('node:repl');
 
 const client = new Client({
