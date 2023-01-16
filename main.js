@@ -6,7 +6,7 @@ const { SpotifyPlugin } = require('@distube/spotify');
 const { YtDlpPlugin } = require('@distube/yt-dlp');
 const { db_initialize } = require('./database_structure/db_initializer');
 const { get_all_user_objects } = require('./globals/stat_updates');
-const { get_one } = require('./globals/database_commands');
+const { get_one, increment } = require('./globals/database_commands');
 const { start } = require('node:repl');
 
 const client = new Client({
@@ -112,16 +112,33 @@ async function get_balance(name, res) {
     const sender_data = await get_one(table, { user:  name });
     res.send(`${sender_data.dataValues['quee_coin']}`);
 }
+async function change_funds(name, amount, res) {
+	const table = client.tables['user_stats'];
+	console.log(amount);
+	increment(table, { quee_coin: (amount) }, { user: name });
+}
 
 // //////////////////////
 // initialize server
 // //////////////////////
 const express = require('express');
-
+const bodyParser = require('body-parser');
 // Instantiate an Express application
 const app = express();
-const cors = require('cors');
-app.use(cors({ origin: 'https://queequeewebsite.github.io' }));
+//const cors = require('cors');
+//app.use(cors({ origin: 'https://queequeewebsite.github.io' }));
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header(
+    "Access-Control-Allow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept"
+  );
+  res.header("Access-Control-Allow-Methods", "PUT,POST,GET,DELETE,OPTIONS");
+  next();
+});
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use( bodyParser.json() );       // to support JSON-encoded bodies
+app.use(bodyParser.raw());
 
 // Create a NodeJS HTTPS listener on port 4000 that points to the Express app
 // Use a callback function to tell when the server is created.
@@ -146,5 +163,22 @@ app.get('/', (req, res)=>{
 	}
 	//res.send('Hello from express server.');
 });
-app.listen(80);
+
+app.post('/',(request,response) => {
+	//code to perform particular action.
+	//To access POST variable use req.body()methods.
+	let body = request.body;
+	let test = 1;
+	let name = body.name + "#" + body.discriminator;
+	if (body.request == "add_funds") {
+		change_funds(name, body.amount, response);
+	}
+});
+
+
+//app.listen(80);
+let server = app.listen(80, function() {
+	const test = server.address();
+  console.log("... port %s in %s mode", server.address().address, app.settings.env);
+});
 console.log('API Online');
