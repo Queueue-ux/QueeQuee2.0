@@ -1,5 +1,5 @@
 const fs = require('node:fs');
-const { Client, Collection, Intents } = require('discord.js');
+const { Client, Collection, GatewayIntentBits } = require('discord.js');
 const { token } = require('./config.json');
 const { DisTube } = require('distube');
 const { SpotifyPlugin } = require('@distube/spotify');
@@ -10,7 +10,7 @@ const { get_one, increment } = require('./globals/database_commands');
 const { start } = require('node:repl');
 
 const client = new Client({
-	intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.GUILD_VOICE_STATES, Intents.FLAGS.GUILD_MEMBERS],
+	intents: [GatewayIntentBits.MessageContent, GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.GuildVoiceStates, GatewayIntentBits.GuildMembers],
 	fetchAllMembers: true,
 	autoReconnect: true,
 	});
@@ -23,7 +23,6 @@ module.exports = client;
 client.isLooping = false;
 
 client.distube = new DisTube(client, {
-	youtubeDL : false,
 	plugins: [new SpotifyPlugin(), new YtDlpPlugin()],
 	nsfw: true,
 });
@@ -117,7 +116,7 @@ async function change_funds(name, amount, res) {
 	console.log(amount);
 	increment(table, { quee_coin: (amount) }, { user: name });
 }
-
+/*
 // //////////////////////
 // initialize server
 // //////////////////////
@@ -149,7 +148,7 @@ app.use(bodyParser.raw());
 	}, app)
 .listen(80, ()=>{
 	console.log('server is runing at port 4000');
-});*/
+}); should be a multi-line comment break here
 
 // Create an try point route for the Express app listening on port 4000.
 // This code tells the service to listed to any request coming to the / route.
@@ -182,3 +181,4 @@ let server = app.listen(80, function() {
   console.log("... port %s in %s mode", server.address().address, app.settings.env);
 });
 console.log('API Online');
+*/
