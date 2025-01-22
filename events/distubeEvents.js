@@ -16,7 +16,8 @@ client.distube
     queue.textChannel.send(
       `Added ${song.name} - \`${song.formattedDuration}\` to the queue`
     ))
-  .on('error', (channel, e) => {
+  .on('error', (e, channel) => {
+    console.log(e);
   channel.send(`An error encountered: ${e.toString().slice(0, 1974)}`);
   console.error(e);
     });

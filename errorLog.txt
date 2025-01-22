@@ -1,0 +1,2424 @@
+error at 12/29/2022 22:50:52
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/25/2023 10:13:44
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:13:49
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:13:54
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:13:59
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:14:4
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:14:9
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:14:14
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:14:20
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:14:25
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:14:30
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:14:35
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:14:40
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:14:45
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:14:50
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:14:55
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:15:0
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:15:5
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:15:10
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:15:15
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:15:20
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:15:25
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:15:30
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:15:35
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:15:40
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:15:45
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:15:50
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/25/2023 10:16:15
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 3:38:51
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 3:39:16
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 3:39:41
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 3:40:6
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 3:40:26
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/31/2023 3:40:40
+	Error: read ECONNRESET
+
+------------------------------
+
+error at 01/31/2023 5:53:15
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 5:53:40
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 5:54:5
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 5:54:30
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 6:6:55
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 6:11:46
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 6:50:49
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 10:11:31
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/31/2023 11:17:50
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/31/2023 14:58:20
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 14:58:45
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 01/31/2023 14:59:10
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 5:25:7
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 5:25:32
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 5:25:57
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 7:27:33
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 7:27:58
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 7:28:23
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 7:31:11
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 7:31:36
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 7:32:1
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 7:32:23
+	Error: socket hang up
+
+------------------------------
+
+error at 02/05/2023 7:32:48
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 7:33:13
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 7:38:53
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/05/2023 7:39:18
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/08/2023 14:40:54
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/09/2023 4:11:33
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/10/2023 9:26:3
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:26:8
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:26:13
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:26:18
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:26:23
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:26:28
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:26:33
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:26:38
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:26:43
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:26:48
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:26:53
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:26:58
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:27:3
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:27:8
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:27:13
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:27:18
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:27:23
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:27:28
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:27:33
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:27:38
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:27:43
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/10/2023 9:28:8
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/10/2023 9:28:33
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/10/2023 9:28:58
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/24/2023 6:28:30
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:28:35
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:28:40
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:28:45
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:28:50
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:28:55
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:29:0
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:29:5
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:29:10
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:29:15
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:29:20
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:29:25
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:29:30
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:29:35
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:29:40
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:29:46
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/24/2023 6:30:11
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/24/2023 6:30:36
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/24/2023 6:31:1
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/24/2023 6:31:26
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 21:59:51
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:0:16
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:0:41
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:1:6
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:1:31
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:1:56
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:2:21
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:2:46
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:4:55
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:5:20
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:5:45
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:6:10
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:6:35
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:6:55
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/27/2023 22:7:20
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:7:45
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:8:10
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:8:30
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/27/2023 22:8:55
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:9:20
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:9:45
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:10:10
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:10:35
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:11:0
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:11:25
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:11:50
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:12:15
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:12:40
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:13:5
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:13:30
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:13:55
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:14:20
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:14:45
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:15:10
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:15:35
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:16:0
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:16:25
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:16:50
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:17:15
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:17:35
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/27/2023 22:18:0
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:18:25
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:20:28
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:20:53
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 22:21:13
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/27/2023 23:12:25
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 23:12:50
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 23:13:10
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 02/27/2023 23:24:31
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 23:24:56
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 23:25:21
+	Error: WebSocket was closed before the connection was established
+
+------------------------------
+
+error at 02/27/2023 23:25:41
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:19:55
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:20:0
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:20:5
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:20:10
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:20:15
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:20:20
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:20:25
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:20:30
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:20:35
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:20:40
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:20:45
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:20:50
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:20:55
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:21:0
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:21:5
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:21:11
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:21:16
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:21:21
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:21:26
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:21:31
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:21:36
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:21:41
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:21:46
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:22:11
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:22:16
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 03/26/2023 9:22:21
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:30:36
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:30:47
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:31:6
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:31:16
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:31:26
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:31:36
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:31:46
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:31:56
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:32:6
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:32:16
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:32:26
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:32:36
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 6:32:46
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:19:18
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:19:29
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:19:48
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:19:58
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:20:8
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:20:18
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:20:28
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:20:38
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:20:48
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:20:58
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:21:8
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:21:18
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:21:28
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:21:38
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:21:48
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:21:58
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:22:8
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:22:18
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:22:28
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:22:38
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:22:48
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:22:58
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:23:8
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:23:18
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:23:28
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:23:38
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:23:48
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:23:58
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:24:8
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:24:18
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:24:28
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:24:38
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:24:48
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:24:58
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 04/07/2023 8:25:8
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:10:42
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:10:52
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:11:2
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:11:12
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:11:22
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:11:32
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:11:42
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:11:52
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:12:2
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:12:12
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:12:22
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:12:32
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:12:42
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:12:52
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:13:2
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:13:12
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:13:22
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:13:32
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:13:42
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:13:52
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:14:2
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:14:12
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:14:22
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:14:32
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:14:42
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:14:52
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:15:2
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:15:12
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:15:22
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 9:15:32
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:35:0
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:35:10
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:35:20
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:35:30
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:35:40
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:35:50
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:36:0
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:36:10
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:36:20
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:36:30
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:36:40
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:36:50
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:37:0
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:37:10
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:37:20
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/09/2023 10:37:30
+	Error: getaddrinfo EAI_AGAIN gateway-us-east1-d.discord.gg
+
+------------------------------
+
+error at 06/15/2023 13:40:53
+	Error: read ECONNRESET
+
+------------------------------
+
+error at 08/29/2023 4:4:26
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:4:37
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:4:54
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:4:59
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:5:4
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:5:9
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:5:14
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:5:19
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:5:24
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:5:29
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:5:34
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:5:39
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:5:44
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:5:49
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:5:54
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:5:59
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:6:4
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:6:9
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:6:14
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:6:19
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:6:24
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:6:29
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:6:34
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:6:39
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:6:44
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:6:49
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:6:54
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:6:59
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:7:4
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:7:9
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:7:15
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:7:20
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:7:25
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:7:30
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:7:35
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:7:40
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:7:45
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:7:50
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:7:55
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:8:0
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:8:5
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:8:10
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:8:15
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:8:20
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:8:25
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:8:30
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:8:35
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:8:40
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:8:45
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:8:50
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:8:55
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:9:0
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:9:5
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:9:10
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:9:15
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:9:20
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:9:25
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:9:31
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:9:36
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:9:41
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:9:46
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:9:51
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:9:56
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:10:1
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:10:6
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:10:11
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:10:16
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:10:21
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:10:26
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:10:31
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:10:36
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:10:41
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:10:46
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:10:51
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:10:56
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:11:1
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:11:6
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:11:11
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:11:16
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:11:21
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:11:26
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:11:31
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:11:36
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:11:41
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:11:46
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:11:52
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:11:57
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:12:2
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:12:7
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:12:12
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:12:17
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:12:22
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:12:27
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:12:32
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:12:37
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:12:42
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:12:47
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:12:52
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:12:57
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:13:2
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:13:7
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:13:12
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:13:17
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:13:22
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:13:27
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:13:32
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:13:37
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:13:42
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:13:47
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:13:52
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:13:57
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:14:2
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:14:8
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:14:13
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:14:18
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:14:23
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:14:28
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:14:33
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:14:38
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:14:43
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:14:48
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:14:53
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:14:58
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:15:3
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:15:8
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:15:13
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:15:18
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:15:23
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:15:28
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:15:33
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:15:38
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:15:43
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:15:48
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:15:53
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:15:58
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:16:3
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:16:8
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:16:14
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:16:19
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:16:24
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:16:29
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:16:34
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:16:39
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:16:44
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:16:49
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:16:54
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:16:59
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:17:4
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:17:9
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:17:14
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:17:19
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:17:24
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:17:29
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:17:34
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:17:39
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:17:44
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:17:49
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:17:54
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:17:59
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:18:4
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:18:9
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:18:14
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:18:19
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:18:24
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:18:29
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:18:34
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 08/29/2023 4:18:40
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 10/05/2023 3:0:39
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 10/05/2023 3:0:44
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 10/05/2023 3:0:49
+	Error: getaddrinfo EAI_AGAIN gateway.discord.gg
+
+------------------------------
+
+error at 01/20/2025 0:16:12
+	DisTubeError [INVALID_TYPE]: Expected 'GuildIdResolvable', but got null (object)
+
+------------------------------
+
+error at 01/20/2025 0:19:52
+	DisTubeError [INVALID_TYPE]: Expected 'GuildIdResolvable', but got null (object)
+
+------------------------------
+
+error at 01/20/2025 0:38:18
+	DisTubeError [INVALID_TYPE]: Expected 'GuildIdResolvable', but got null (object)
+
+------------------------------
+
+error at 01/20/2025 0:38:18
+	undefined
+
+------------------------------
+
+error at 01/20/2025 0:39:46
+	DisTubeError [INVALID_TYPE]: Expected 'GuildIdResolvable', but got null (object)
+
+------------------------------
+
+error at 01/20/2025 0:39:46
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:68:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 0:40:37
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:68:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 0:42:1
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:64:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 0:55:20
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 1:11:16
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:64:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 1:13:20
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:64:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 1:18:38
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:64:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 1:18:52
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:64:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 1:20:10
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:64:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 1:42:29
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 1:48:7
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 1:54:3
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 2:32:18
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/20/2025 2:32:18
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/21/2025 6:16:15
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/21/2025 6:34:51
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/21/2025 6:35:1
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/21/2025 6:36:22
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/21/2025 6:57:14
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/21/2025 6:58:26
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/21/2025 7:29:15
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+
+error at 01/21/2025 7:30:17
+	Error
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:65:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+
+------------------------------
+

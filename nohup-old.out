@@ -1,0 +1,1411 @@
+connected!
+actually ready now!
+/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237
+    if (!token || typeof token !== 'string') throw new Error('TOKEN_INVALID');
+                                                   ^
+
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237:52)
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/shardError.js:11:11)
+    at Client.<anonymous> (/home/ubuntu/code/QueeQuee2.0/main.js:63:44)
+    at Client.emit (node:events:390:28)
+    at WebSocketShard.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:335:25)
+    at WebSocket.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/event-target.js:220:18)
+    at WebSocket.emit (node:events:390:28)
+    at emitErrorAndClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:993:13)
+    at ClientRequest.<anonymous> (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:845:5)
+    at ClientRequest.emit (node:events:390:28) {
+  [Symbol(code)]: 'TOKEN_INVALID'
+}
+connected!
+actually ready now!
+DisTubeError [NO_RESULT]: No result found
+    at DisTube.search (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:390:23)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:171:33)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9) {
+  errorCode: 'NO_RESULT'
+}
+Error [PlayingError]: Sign in to confirm your age
+Id: xL-RQLQknLc
+Name: CustomGrow420 - Coughs and Other Various Noises Ep.1
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237
+    if (!token || typeof token !== 'string') throw new Error('TOKEN_INVALID');
+                                                   ^
+
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237:52)
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/shardError.js:11:11)
+    at Client.<anonymous> (/home/ubuntu/code/QueeQuee2.0/main.js:63:44)
+    at Client.emit (node:events:390:28)
+    at WebSocketShard.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:335:25)
+    at WebSocket.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/event-target.js:220:18)
+    at WebSocket.emit (node:events:390:28)
+    at emitErrorAndClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:993:13)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+    at runNextTicks (node:internal/process/task_queues:65:3) {
+  [Symbol(code)]: 'TOKEN_INVALID'
+}
+connected!
+actually ready now!
+/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237
+    if (!token || typeof token !== 'string') throw new Error('TOKEN_INVALID');
+                                                   ^
+
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237:52)
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/shardError.js:11:11)
+    at Client.<anonymous> (/home/ubuntu/code/QueeQuee2.0/main.js:63:44)
+    at Client.emit (node:events:390:28)
+    at WebSocketShard.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:335:25)
+    at WebSocket.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/event-target.js:220:18)
+    at WebSocket.emit (node:events:390:28)
+    at emitErrorAndClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:993:13)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  [Symbol(code)]: 'TOKEN_INVALID'
+}
+connected!
+actually ready now!
+/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237
+    if (!token || typeof token !== 'string') throw new Error('TOKEN_INVALID');
+                                                   ^
+
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237:52)
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/shardError.js:11:11)
+    at Client.<anonymous> (/home/ubuntu/code/QueeQuee2.0/main.js:63:44)
+    at Client.emit (node:events:390:28)
+    at WebSocketShard.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:335:25)
+    at WebSocket.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/event-target.js:220:18)
+    at WebSocket.emit (node:events:390:28)
+    at emitErrorAndClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:993:13)
+    at ClientRequest.<anonymous> (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:845:5)
+    at ClientRequest.emit (node:events:390:28) {
+  [Symbol(code)]: 'TOKEN_INVALID'
+}
+connected!
+actually ready now!
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: WebSocket was closed before the connection was established
+    at WebSocket.close (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:285:14)
+    at WebSocketShard.destroy (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:806:27)
+    at WebSocketShard.onClose (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:370:12)
+    at WebSocket.onClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/event-target.js:210:18)
+    at WebSocket.emit (node:events:390:28)
+    at WebSocket.emitClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:258:10)
+    at TLSSocket.socketOnClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:1249:15)
+    at TLSSocket.emit (node:events:402:35)
+    at node:net:687:12
+    at TCP.done (node:_tls_wrap:580:7)
+Emitted 'error' event on WebSocket instance at:
+    at emitErrorAndClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:993:13)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+connected!
+actually ready now!
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayError'
+}
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+connected!
+actually ready now!
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+(node:46660) DeprecationWarning: DisTubeOptions.youtubeDL is deprecated, set it to false and use `@distube/yt-dlp` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+connected!
+[DisTube] Updated youtube-dl to 2022.08.14!
+actually ready now!
+(node:46680) DeprecationWarning: DisTubeOptions.youtubeDL is deprecated, set it to false and use `@distube/yt-dlp` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+connected!
+[DisTube] Updated youtube-dl to 2022.08.14!
+actually ready now!
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+evalmachine.<anonymous>:11
+"mfZru","cfYAzm",1897615910,414154674,"IluoVc5",null,1,"XsmT",-659785013,577478260,-419211961,1087899650,/,,[/,913,/](,)};Wka(ncode);
+                                                                                                         ^
+
+SyntaxError: Invalid regular expression: missing /
+    at new Script (node:vm:100:7)
+    at Object.exports.decipherFormats (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/sig.js:116:51)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 0)
+    at async exports.getInfo (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/info.js:326:17) {
+  name: 'PlayingError'
+}
+(node:46722) DeprecationWarning: DisTubeOptions.youtubeDL is deprecated, set it to false and use `@distube/yt-dlp` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+connected!
+[DisTube] Updated youtube-dl to 2022.08.14!
+actually ready now!
+Error [PlayingError]: Sign in to confirm your age
+Id: 02vDkMEdIkY
+Name: Scatmans World (Official Video) HD -Scatman John
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+Error [PlayingError]: Sign in to confirm your age
+Id: 02vDkMEdIkY
+Name: Scatmans World (Official Video) HD -Scatman John
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+Error [PlayingError]: Sign in to confirm your age
+Id: 02vDkMEdIkY
+Name: Scatmans World (Official Video) HD -Scatman John
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager._QueueManager_handleSongFinish (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:164:21)
+Error [PlayingError]: Sign in to confirm your age
+Id: 02vDkMEdIkY
+Name: Scatmans World (Official Video) HD -Scatman John
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+DisTubeError [VOICE_CONNECT_FAILED]: Cannot connect to the voice channel after 30 seconds
+    at DisTubeVoice.join (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/voice/DisTubeVoice.js:122:19)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:41:13)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5) {
+  errorCode: 'VOICE_CONNECT_FAILED'
+}
+DisTubeError [VOICE_CONNECT_FAILED]: Cannot connect to the voice channel after 30 seconds
+    at DisTubeVoice.join (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/voice/DisTubeVoice.js:122:19)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:41:13)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5) {
+  errorCode: 'VOICE_CONNECT_FAILED'
+}
+Error [PlayingError]: Sign in to confirm your age
+Id: mV5Thn1mfbA
+Name: [YTP] The Yeetles - Cum Together
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237
+    if (!token || typeof token !== 'string') throw new Error('TOKEN_INVALID');
+                                                   ^
+
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237:52)
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/shardError.js:11:11)
+    at Client.<anonymous> (/home/ubuntu/code/QueeQuee2.0/main.js:63:44)
+    at Client.emit (node:events:390:28)
+    at WebSocketShard.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:335:25)
+    at WebSocket.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/event-target.js:220:18)
+    at WebSocket.emit (node:events:390:28)
+    at emitErrorAndClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:993:13)
+    at ClientRequest.<anonymous> (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:845:5)
+    at ClientRequest.emit (node:events:390:28) {
+  [Symbol(code)]: 'TOKEN_INVALID'
+}
+(node:85387) DeprecationWarning: DisTubeOptions.youtubeDL is deprecated, set it to false and use `@distube/yt-dlp` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+connected!
+actually ready now!
+[DisTube] Updated youtube-dl to 2022.09.01!
+/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237
+    if (!token || typeof token !== 'string') throw new Error('TOKEN_INVALID');
+                                                   ^
+
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237:52)
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/shardError.js:11:11)
+    at Client.<anonymous> (/home/ubuntu/code/QueeQuee2.0/main.js:63:44)
+    at Client.emit (node:events:390:28)
+    at WebSocketShard.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:335:25)
+    at WebSocket.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/event-target.js:220:18)
+    at WebSocket.emit (node:events:390:28)
+    at emitErrorAndClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:993:13)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  [Symbol(code)]: 'TOKEN_INVALID'
+}
+(node:107858) DeprecationWarning: DisTubeOptions.youtubeDL is deprecated, set it to false and use `@distube/yt-dlp` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+connected!
+actually ready now!
+[DisTube] Updated youtube-dl to 2022.09.01!
+DisTubeError [VOICE_CONNECT_FAILED]: Cannot connect to the voice channel after 30 seconds
+    at DisTubeVoice.join (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/voice/DisTubeVoice.js:122:19)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:41:13)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5) {
+  errorCode: 'VOICE_CONNECT_FAILED'
+}
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:107858) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237
+    if (!token || typeof token !== 'string') throw new Error('TOKEN_INVALID');
+                                                   ^
+
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237:52)
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/shardError.js:11:11)
+    at Client.<anonymous> (/home/ubuntu/code/QueeQuee2.0/main.js:63:44)
+    at Client.emit (node:events:390:28)
+    at WebSocketShard.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:335:25)
+    at WebSocket.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/event-target.js:220:18)
+    at WebSocket.emit (node:events:390:28)
+    at emitErrorAndClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:993:13)
+    at ClientRequest.<anonymous> (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:845:5)
+    at ClientRequest.emit (node:events:390:28) {
+  [Symbol(code)]: 'TOKEN_INVALID'
+}
+(node:167153) DeprecationWarning: DisTubeOptions.youtubeDL is deprecated, set it to false and use `@distube/yt-dlp` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+connected!
+actually ready now!
+[DisTube] Updated youtube-dl to 2022.09.01!
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error [PlayingError]: Sign in to confirm your age
+Id: EBnj5sdewyg
+Name: LITTLE BIG - PUNKS NOT DEAD (OFFICIAL MUSIC VIDEO)
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager._QueueManager_handleSongFinish (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:164:21)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error [PlayingError]: Sign in to confirm your age
+Id: xL-RQLQknLc
+Name: CustomGrow420 - Coughs and Other Various Noises Ep.1
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error [PlayingError]: Sign in to confirm your age
+Id: OLpeX4RRo28
+Name: PINK GUY - STFU
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:167153) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error: Unexpected server response: 522
+    at ClientRequest.<anonymous> (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:877:7)
+    at ClientRequest.emit (node:events:390:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:623:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+    at TLSSocket.socketOnData (node:_http_client:487:22)
+    at TLSSocket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at TLSSocket.Readable.push (node:internal/streams/readable:228:10)
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:199:23)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error [PlayingError]: Sign in to confirm your age
+Id: xL-RQLQknLc
+Name: CustomGrow420 - Coughs and Other Various Noises Ep.1
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+Error [PlayError]: https://www.youtube.com/watch?v=xL-RQLQknLc
+Sign in to confirm your age
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at new Song (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:55:18)
+    at DisTubeHandler.resolveSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/DisTubeHandler.js:126:20)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:180:24)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error [PlayError]: https://www.youtube.com/watch?v=Y-PtEeRTfDk&list=RDEMgzfuI4vuso8vDvgMAR9UbA&start_radio=1
+Unknown Playlist
+    at module.exports (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytpl/lib/main.js:32:35)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async DisTubeHandler.resolvePlaylist (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/DisTubeHandler.js:156:32)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:167:28)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237
+    if (!token || typeof token !== 'string') throw new Error('TOKEN_INVALID');
+                                                   ^
+
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237:52)
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/shardError.js:11:11)
+    at Client.<anonymous> (/home/ubuntu/code/QueeQuee2.0/main.js:63:44)
+    at Client.emit (node:events:390:28)
+    at WebSocketShard.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:335:25)
+    at WebSocket.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/event-target.js:220:18)
+    at WebSocket.emit (node:events:390:28)
+    at emitErrorAndClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:993:13)
+    at ClientRequest.<anonymous> (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:845:5)
+    at ClientRequest.emit (node:events:390:28) {
+  [Symbol(code)]: 'TOKEN_INVALID'
+}
+(node:227063) DeprecationWarning: DisTubeOptions.youtubeDL is deprecated, set it to false and use `@distube/yt-dlp` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+connected!
+actually ready now!
+[DisTube] Updated youtube-dl to 2022.10.04!
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error [PlayingError]: Sign in to confirm your age
+Id: mMf63wMWC4Q
+Name: (RE-UPLOAD) Yungster Jack + David Shawty - PRESSURE (prod. Hoodwtch) MUSIC VIDEO
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+Error [PlayingError]: Sign in to confirm your age
+Id: mMf63wMWC4Q
+Name: (RE-UPLOAD) Yungster Jack + David Shawty - PRESSURE (prod. Hoodwtch) MUSIC VIDEO
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+Error [PlayingError]: Sign in to confirm your age
+Id: wQrJacW2Lhs
+Name: Yungster Jack + David Shawty - PRESSURE (prod. Hoodwtch) MUSIC VIDEO
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error [PlayingError]: Sign in to confirm your age
+Id: mMf63wMWC4Q
+Name: (RE-UPLOAD) Yungster Jack + David Shawty - PRESSURE (prod. Hoodwtch) MUSIC VIDEO
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+(node:227063) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+(node:255326) DeprecationWarning: DisTubeOptions.youtubeDL is deprecated, set it to false and use `@distube/yt-dlp` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+connected!
+[DisTube] Updated youtube-dl to 2022.10.04!
+actually ready now!
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error [PlayingError]: Sign in to confirm your age
+Id: mMf63wMWC4Q
+Name: (RE-UPLOAD) Yungster Jack + David Shawty - PRESSURE (prod. Hoodwtch) MUSIC VIDEO
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237
+    if (!token || typeof token !== 'string') throw new Error('TOKEN_INVALID');
+                                                   ^
+
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237:52)
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/shardError.js:11:11)
+    at Client.<anonymous> (/home/ubuntu/code/QueeQuee2.0/main.js:64:44)
+    at Client.emit (node:events:390:28)
+    at WebSocketShard.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:335:25)
+    at WebSocket.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/event-target.js:220:18)
+    at WebSocket.emit (node:events:390:28)
+    at emitErrorAndClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:993:13)
+    at ClientRequest.<anonymous> (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:845:5)
+    at ClientRequest.emit (node:events:390:28) {
+  [Symbol(code)]: 'TOKEN_INVALID'
+}
+(node:260861) DeprecationWarning: DisTubeOptions.youtubeDL is deprecated, set it to false and use `@distube/yt-dlp` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+connected!
+actually ready now!
+[DisTube] Updated youtube-dl to 2022.10.04!
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237
+    if (!token || typeof token !== 'string') throw new Error('TOKEN_INVALID');
+                                                   ^
+
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237:52)
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/shardError.js:11:11)
+    at Client.<anonymous> (/home/ubuntu/code/QueeQuee2.0/main.js:64:44)
+    at Client.emit (node:events:390:28)
+    at WebSocketShard.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:335:25)
+    at WebSocket.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/event-target.js:220:18)
+    at WebSocket.emit (node:events:390:28)
+    at emitErrorAndClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:993:13)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  [Symbol(code)]: 'TOKEN_INVALID'
+}
+(node:269573) DeprecationWarning: DisTubeOptions.youtubeDL is deprecated, set it to false and use `@distube/yt-dlp` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+connected!
+actually ready now!
+[DisTube] Updated youtube-dl to 2022.10.04!
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error [PlayingError]: Sign in to confirm your age
+Id: 5vBGOrI6yBk
+Name: System Of A Down - Sugar (Official HD Video)
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+DisTubeError [VOICE_CONNECT_FAILED]: Cannot connect to the voice channel after 30 seconds
+    at DisTubeVoice.join (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/voice/DisTubeVoice.js:122:19)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:41:13)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5) {
+  errorCode: 'VOICE_CONNECT_FAILED'
+}
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error [PlayingError]: Sign in to confirm your age
+Id: -qWU9rWVtqQ
+Name: Can Twitch Chat Make Me Laugh? (ULTIMATE YLYL)
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+(node:269573) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:269573) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:269573) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:269573) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:269573) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:269573) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:269573) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+(node:269573) DeprecationWarning: 'unshift' option in DisTube#play is deprecated, use 'position' instead.
+Error [PlayingError]: Sign in to confirm your age
+Id: useCpQfruDI
+Name: THE BUG  -  F**k A Bitch  feat. Death Grips
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+Error [PlayingError]: Sign in to confirm your age
+Id: nuhJ9GQSj84
+Name: Tense1983 - Yur father is fakin Gargamel
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+Error [PlayingError]: Sign in to confirm your age
+Id: nuhJ9GQSj84
+Name: Tense1983 - Yur father is fakin Gargamel
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+Error [PlayError]: https://www.youtube.com/watch?v=D-suEYfp-cM&ab_channel=damianluck925
+Sign in to confirm your age
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at new Song (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:55:18)
+    at DisTubeHandler.resolveSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/DisTubeHandler.js:126:20)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:180:24)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+Error [PlayError]: https://www.youtube.com/watch?v=D-suEYfp-cM&ab_channel=damianluck925
+Sign in to confirm your age
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at new Song (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:55:18)
+    at DisTubeHandler.resolveSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/DisTubeHandler.js:126:20)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:180:24)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error [PlayingError]: Sign in to confirm your age
+Id: useCpQfruDI
+Name: THE BUG  -  F**k A Bitch  feat. Death Grips
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+Error [PlayingError]: Sign in to confirm your age
+Id: om3w9PaQx2U
+Name: Fuck A Bitch - The Bug ft Death Grips
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at QueueManager.playSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:71:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async QueueManager.create (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/manager/QueueManager.js:45:25)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:197:42)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+Error [PlayError]: https://youtu.be/GTib-_10gVg
+Sign in to confirm your age
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at new Song (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:55:18)
+    at DisTubeHandler.resolveSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/DisTubeHandler.js:126:20)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:180:24)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+Error [PlayError]: https://youtu.be/kia0-wSt3eI
+Sign in to confirm your age
+    at Object.exports.playError (/home/ubuntu/code/QueeQuee2.0/node_modules/@distube/ytdl-core/lib/utils.js:124:12)
+    at Song._patchYouTube (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:72:65)
+    at new Song (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/struct/Song.js:55:18)
+    at DisTubeHandler.resolveSong (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/core/DisTubeHandler.js:126:20)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async DisTube.play (/home/ubuntu/code/QueeQuee2.0/node_modules/distube/dist/DisTube.js:180:24)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/commands/music/play.js:25:9)
+    at async Object.execute (/home/ubuntu/code/QueeQuee2.0/events/messageCreate.js:39:5)
+[33mWARNING:[0m ytdl-core is out of date! Update with "npm install @distube/ytdl-core@latest".
+/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237
+    if (!token || typeof token !== 'string') throw new Error('TOKEN_INVALID');
+                                                   ^
+
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/Client.js:237:52)
+    at Object.execute (/home/ubuntu/code/QueeQuee2.0/events/shardError.js:11:11)
+    at Client.<anonymous> (/home/ubuntu/code/QueeQuee2.0/main.js:64:44)
+    at Client.emit (node:events:390:28)
+    at WebSocketShard.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/discord.js/src/client/websocket/WebSocketShard.js:335:25)
+    at WebSocket.onError (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/event-target.js:220:18)
+    at WebSocket.emit (node:events:390:28)
+    at emitErrorAndClose (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:993:13)
+    at ClientRequest.<anonymous> (/home/ubuntu/code/QueeQuee2.0/node_modules/ws/lib/websocket.js:845:5)
+    at ClientRequest.emit (node:events:390:28) {
+  [Symbol(code)]: 'TOKEN_INVALID'
+}
+(node:331990) DeprecationWarning: DisTubeOptions.youtubeDL is deprecated, set it to false and use `@distube/yt-dlp` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+connected!
+actually ready now!
+[DisTube] Updated youtube-dl to 2022.11.11!
+(node:1316) ExperimentalWarning: stream/web is an experimental feature. This feature could change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+connected!
+actually ready now!

@@ -1,5 +1,5 @@
 const { get_vars } = require('./music_args_handling');
-const { MessageEmbed } = require('discord.js');
+const { EmbedBuilder } = require('discord.js');
 const client = require('../../main');
 
 module.exports = {
@@ -9,8 +9,10 @@ module.exports = {
     usage: 'queue',
     aliases: ['q'],
     async execute(message, args) {
+	
         const { member, channel, voiceChannel } = get_vars(message);
-        const queue = await client.distube.getQueue(voiceChannel);
+        const queue = await client.distube.getQueue(message);
+	    console.log("made it!");
         if (!queue) return message.channel.send('There is nothing in the queue right now!');
         if (!voiceChannel) {
             return message.reply('must be in a voice channel to use music commands');
@@ -20,8 +22,8 @@ module.exports = {
         }
 
         return message.reply({ embeds: [
-                                new MessageEmbed()
-                                .setColor("PURPLE")
+                                new EmbedBuilder()
+                                .setColor("#B533FF")
                                 .setDescription(`${queue.songs.map(
                                     (song, id) => `\n**${id + 1}**. ${song.name} - \`${song.formattedDuration}\``)}`
                                 )] });

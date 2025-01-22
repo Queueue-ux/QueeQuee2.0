@@ -1,10 +1,10 @@
 const { prefix, web_data_channel, web_data_bot_username } = require('../config.json');
-const { MessageEmbed } = require('discord.js');
 const { emit_error } = require('../globals/error_output');
 const { get_user_name } = require('../globals/parse_discord_objects');
 const { update_total_messages } = require('../globals/stat_updates');
 const { increment } = require('../globals/database_commands');
 const client_obj = require('../main');
+const { EmbedBuilder } = require('discord.js');
 module.exports = {
 name: 'messageCreate',
 async execute(message) {
@@ -59,12 +59,16 @@ async execute(message) {
   // Run the command
   try {
     await cmd.execute(message, args);
+    //await cmd.execute();
   }
   catch (err) {
-            const errorEmbed = new MessageEmbed()
-            .setColor('RED')
-            .setDescription(`${err}`);
-            emit_error(err);
+	    const stackTrace = new Error();
+            const errorEmbed = new EmbedBuilder()
+            .setColor('#FF0000')
+            .setDescription(`${err}${stackTrace.stack}`);
+            //emit_error(err);
+	  
+	    emit_error(stackTrace.stack);
             return message.reply({ embeds: [errorEmbed] });
         }
 },

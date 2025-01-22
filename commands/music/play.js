@@ -1,4 +1,4 @@
-const { MessageEmbed } = require('discord.js');
+const { EmbedBuilder } = require('discord.js');
 const { get_vars } = require('./music_args_handling');
 const client = require('../../main');
 

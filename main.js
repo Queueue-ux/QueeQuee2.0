@@ -1,9 +1,9 @@
 const fs = require('node:fs');
 const { Client, Collection, GatewayIntentBits } = require('discord.js');
 const { token } = require('./config.json');
-const { DisTube } = require('distube');
+const { DisTube,FFmpegArgs,FFmpegArg } = require('distube');
 const { SpotifyPlugin } = require('@distube/spotify');
-const { YtDlpPlugin } = require('@distube/yt-dlp');
+const { YouTubePlugin } = require('@distube/youtube');
 const { db_initialize } = require('./database_structure/db_initializer');
 const { get_all_user_objects } = require('./globals/stat_updates');
 const { get_one, increment } = require('./globals/database_commands');
@@ -23,8 +23,12 @@ module.exports = client;
 client.isLooping = false;
 
 client.distube = new DisTube(client, {
-	plugins: [new SpotifyPlugin(), new YtDlpPlugin()],
+	plugins: [new SpotifyPlugin(), new YouTubePlugin()],
 	nsfw: true,
+	ffmpeg: {
+		args: {global:{"-loglevel": "debug"}}
+	}
+
 });
 
 // recursive search for command files
@@ -132,7 +136,7 @@ app.use(function(req, res, next) {
     "Access-Control-Allow-Headers",
     "Origin, X-Requested-With, Content-Type, Accept"
   );
-  res.header("Access-Control-Allow-Methods", "PUT,POST,GET,DELETE,OPTIONS");
+  es.header("Access-Control-Allow-Methods", "PUT,POST,GET,DELETE,OPTIONS");
   next();
 });
 app.use(bodyParser.urlencoded({ extended: true }));
